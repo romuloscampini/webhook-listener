@@ -1,1 +1,1 @@
-web: PYTHONUNBUFFERED=true python web.py
+web: python web.py
